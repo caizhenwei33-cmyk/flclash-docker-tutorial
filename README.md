@@ -578,3 +578,14 @@ docker run -d --name flclash-2 \
 ---
 
 > **免责声明**：本教程仅用于技术学习和研究。请遵守当地法律法规，合理使用代理工具。
+
+---
+
+## ☕ 支持 / Support
+
+如果这个教程对你有帮助，欢迎请我喝杯咖啡：
+
+**USDT (TRC20)**
+```
+TMHc5pXsh76EE1fQLLD8PNGj7nyc5f7V23
+```
